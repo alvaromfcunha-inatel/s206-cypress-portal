@@ -1,0 +1,23 @@
+{
+  "name": "s206-cypress-portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvaromfcunha-inatel/s206-cypress-portal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvaromfcunha-inatel/s206-cypress-portal/issues"
+  },
+  "homepage": "https://github.com/alvaromfcunha-inatel/s206-cypress-portal#readme",
+  "dependencies": {
+    "cypress": "^10.11.0"
+  }
+}
